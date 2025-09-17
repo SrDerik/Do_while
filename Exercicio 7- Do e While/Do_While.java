@@ -38,7 +38,8 @@ public class Do_While {
             while (dois<=multiplos);
     
              //Terceiro algoritmo
-             //Variaveis
+             //Variaveis e dialogo
+            System.out.println("Neste algoritmo sera mostrado os numeros de 100.");
             int pa1=100;
             int pa25=125;
              //Variavel para calculo
